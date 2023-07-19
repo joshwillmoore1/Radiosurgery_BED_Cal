@@ -2,7 +2,7 @@
 
 This online calculator estimates Biological Effective Dose (BED) estimates for radiosurgery treatments. 
 
-For more information, the accompanying manuscript for this software is [[1]][1]
+For more information, the accompanying manuscript for this software is can be found [here][1].
 
  ## Estimation background:
 Background reading [a link][2]
